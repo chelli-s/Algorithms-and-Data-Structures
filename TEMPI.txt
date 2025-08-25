@@ -1,0 +1,4 @@
+tempo di elavorazione
+17180,528182 	secondi
+360 		minuti
+6 		ore 
